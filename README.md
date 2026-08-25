@@ -43,4 +43,4 @@ I’m building a collection of practical projects and playbooks covering:
 
 If you're interested in technology delivery, quality engineering, AI adoption, or building high-performing engineering teams, feel free to connect.
 
-**LinkedIn:** [[Add your LinkedIn profile here](https://www.linkedin.com/in/divya-venugopalan/)]
+**LinkedIn:** [https://www.linkedin.com/in/divya-venugopalan/]
